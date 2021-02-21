@@ -1,3 +1,4 @@
+#https://medium.com/@gustavo.uach/how-to-build-a-simple-job-server-in-codeigniter-712d979940d8
 #https://expressionengine.com/forums/archive/topic/93795/how-to-integrate-mail-queue-with-codeigniter
 
 
